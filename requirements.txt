@@ -4,3 +4,8 @@ python-dotenv
 huggingface_hub
 streamlit
 faiss-cpu 
+watchdog 
+InstructorEmbedding
+sentence-transformers 
+langchain-community 
+sentencepiece 
