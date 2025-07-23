@@ -1,0 +1,6 @@
+pypdf2
+langchain
+python-dotenv
+huggingface_hub
+streamlit
+faiss-cpu 
